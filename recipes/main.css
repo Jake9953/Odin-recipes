@@ -3,6 +3,18 @@ body{
   font-family: 'Courier New', Courier, monospace;
 }
 
+.unordered{
+  text-align: center;
+  margin: 2px;
+  padding: 5px;
+}
+
+#none{
+  list-style: none;
+  padding: 12px;
+  margin: 8px;
+}
+
 .head{
   color: rgb(255, 136, 0);
   text-align: center;
@@ -37,5 +49,10 @@ body{
 .head3{
   color: crimson;
   background-color: yellowgreen;
+  text-align: center;
+}
+
+.pic{
+  margin: 8px auto;
   text-align: center;
 }
